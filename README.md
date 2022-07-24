@@ -8,3 +8,10 @@ Links Redes Sociales
 
 * YouTube
   https://www.youtube.com/channel/UCV2bm2TBnMgxfIUfwMZ71DQ
+
+Base de Datos
+Localhost
+Port: 3306
+Base de datos: luxuryDB
+Usuario: luxury
+password: Sl8sVbhT@Z!$
