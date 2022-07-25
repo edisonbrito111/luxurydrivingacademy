@@ -1,0 +1,8 @@
+**/.git
+**/.svn
+**/.hg
+**/.DS_Store
+**/cvs
+**/_Thumbs.db
+.vscode
+.settings.json

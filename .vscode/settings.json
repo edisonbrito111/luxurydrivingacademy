@@ -1,3 +1,6 @@
 {
-  "compile-hero.disable-compile-files-on-did-save-code": false
+  "compile-hero.disable-compile-files-on-did-save-code": false,
+  "files.autoSave": "onFocusChange",
+  "editor.tabSize": 2,
+  "editor.wordWrap": "wordWrapColumn"
 }
